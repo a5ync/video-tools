@@ -59,3 +59,10 @@ python ./convert_transcribe_json_to_srt.py my_file.json my_file.srt
 ```sh
 python ./search_srt.py my_file.json my_file.srt
 ```
+
+```
+❯ python search_srt.py ./ 'adipiscing'
+
+🔍 **Search Results:**
+📄 lorem.srt | ⏱ 00:00:03,000 --> 00:00:05,000 | consectetur adipiscing elit .
+```
