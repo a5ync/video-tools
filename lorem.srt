@@ -1,0 +1,15 @@
+1
+00:00:00,500 --> 00:00:03,000
+Lorem ipsum dolor sit amet ,
+
+2
+00:00:03,000 --> 00:00:05,000
+consectetur adipiscing elit .
+
+3
+00:00:05,000 --> 00:00:10,000
+Sed do eiusmod tempor incididunt ut labore et dolore magna
+
+4
+00:00:10,000 --> 00:00:11,000
+aliqua .

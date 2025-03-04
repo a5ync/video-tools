@@ -1,0 +1,253 @@
+{
+    "jobName": "2025-03-04-1",
+    "accountId": "123456789012",
+    "status": "COMPLETED",
+    "results": {
+      "transcripts": [
+        {
+          "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      ],
+      "items": [
+        {
+          "start_time": "0.0",
+          "end_time": "0.5",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.99",
+              "content": "Lorem"
+            }
+          ]
+        },
+        {
+          "start_time": "0.5",
+          "end_time": "1.0",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.98",
+              "content": "ipsum"
+            }
+          ]
+        },
+        {
+          "start_time": "1.0",
+          "end_time": "1.5",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.97",
+              "content": "dolor"
+            }
+          ]
+        },
+        {
+          "start_time": "1.5",
+          "end_time": "2.0",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.98",
+              "content": "sit"
+            }
+          ]
+        },
+        {
+          "start_time": "2.0",
+          "end_time": "2.5",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.99",
+              "content": "amet"
+            }
+          ]
+        },
+        {
+          "start_time": "2.5",
+          "end_time": "3.0",
+          "type": "punctuation",
+          "alternatives": [
+            {
+              "content": ","
+            }
+          ]
+        },
+        {
+          "start_time": "3.0",
+          "end_time": "3.5",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.99",
+              "content": "consectetur"
+            }
+          ]
+        },
+        {
+          "start_time": "3.5",
+          "end_time": "4.0",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.98",
+              "content": "adipiscing"
+            }
+          ]
+        },
+        {
+          "start_time": "4.0",
+          "end_time": "4.5",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.97",
+              "content": "elit"
+            }
+          ]
+        },
+        {
+          "start_time": "4.5",
+          "end_time": "5.0",
+          "type": "punctuation",
+          "alternatives": [
+            {
+              "content": "."
+            }
+          ]
+        },
+        {
+          "start_time": "5.0",
+          "end_time": "5.5",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.99",
+              "content": "Sed"
+            }
+          ]
+        },
+        {
+          "start_time": "5.5",
+          "end_time": "6.0",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.99",
+              "content": "do"
+            }
+          ]
+        },
+        {
+          "start_time": "6.0",
+          "end_time": "6.5",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.98",
+              "content": "eiusmod"
+            }
+          ]
+        },
+        {
+          "start_time": "6.5",
+          "end_time": "7.0",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.99",
+              "content": "tempor"
+            }
+          ]
+        },
+        {
+          "start_time": "7.0",
+          "end_time": "7.5",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.98",
+              "content": "incididunt"
+            }
+          ]
+        },
+        {
+          "start_time": "7.5",
+          "end_time": "8.0",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.99",
+              "content": "ut"
+            }
+          ]
+        },
+        {
+          "start_time": "8.0",
+          "end_time": "8.5",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.98",
+              "content": "labore"
+            }
+          ]
+        },
+        {
+          "start_time": "8.5",
+          "end_time": "9.0",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.97",
+              "content": "et"
+            }
+          ]
+        },
+        {
+          "start_time": "9.0",
+          "end_time": "9.5",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.98",
+              "content": "dolore"
+            }
+          ]
+        },
+        {
+          "start_time": "9.5",
+          "end_time": "10.0",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.97",
+              "content": "magna"
+            }
+          ]
+        },
+        {
+          "start_time": "10.0",
+          "end_time": "10.5",
+          "type": "pronunciation",
+          "alternatives": [
+            {
+              "confidence": "0.99",
+              "content": "aliqua"
+            }
+          ]
+        },
+        {
+          "start_time": "10.5",
+          "end_time": "11.0",
+          "type": "punctuation",
+          "alternatives": [
+            {
+              "content": "."
+            }
+          ]
+        }
+      ]
+    }
+  }
